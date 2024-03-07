@@ -1,4 +1,5 @@
 
+
 npm i 
 
-npm run dev
+npm rund dev
